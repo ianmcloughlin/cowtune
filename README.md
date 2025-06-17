@@ -1,9 +1,8 @@
 # Cowtune
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _____________________________________
+/ You have the power to influence all \
+\ with whom you come in contact.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
