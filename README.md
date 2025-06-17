@@ -1,10 +1,14 @@
 # Cowtune
- _____________________________________
-/ You have the power to influence all \
-\ with whom you come in contact.      /
- -------------------------------------
+```
+ _________________________________________
+/ But, for my own part, it was Greek to   \
+| me.                                     |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
+```
