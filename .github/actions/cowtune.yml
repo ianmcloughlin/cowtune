@@ -1,0 +1,50 @@
+# Generates a fortune using cowsay and commits it to the repository.
+
+name: Cowsay Fortune
+
+on:
+  schedule:
+  # Run daily at midnight UTC.
+    - cron: "0 0 * * *"
+  # Can also be triggered manually.
+  workflow_dispatch:
+
+permissions:
+  # Needs write permissions to the repository to commit changes.
+  contents: write
+
+jobs:
+  generate_fortune:
+    name: Generate and Commit Fortune
+
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository.
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # Step 2: Install cowsay and fortune.
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y cowsay fortune
+      
+      # Step 3: Generate a fortune and save it to README, overwriting contents.
+      - name: Generate fortune and save
+        run: |
+          mkdir -p data/fortunes
+          echo "# Cowtune" > README.md
+          fortune | cowsay >> README.md  
+      
+      # Step 4: Commit and push the changes
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Adding today's fortune!"
+          git push
+        env:
+          # Ensure permissions for pushing changes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
