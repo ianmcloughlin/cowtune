@@ -35,9 +35,9 @@ jobs:
         run: |
           mkdir -p data/fortunes
           echo "# Cowtune" > README.md
-          echo "```" >> README.md
+          echo "\`\`\`" >> README.md
           fortune | cowsay >> README.md
-          echo "```" >> README.md
+          echo "\`\`\`" >> README.md
       
       # Step 4: Commit and push the changes
       - name: Commit and push changes
