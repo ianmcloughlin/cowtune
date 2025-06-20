@@ -1,9 +1,9 @@
 # Cowtune
 ```
- _____________________________________
-/ You will be audited by the Internal \
-\ Revenue Service.                    /
- -------------------------------------
+ ______________________________________
+/ You will live a long, healthy, happy \
+\ life and make bags of money.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
