@@ -1,12 +1,11 @@
 # Cowtune
 ```
  ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
 |                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
+\ -- Mark Twain, "Huckleberry Finn"      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
