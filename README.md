@@ -1,12 +1,8 @@
 # Cowtune
 ```
- ________________________________________
-/ Hain't we got all the fools in town on \
-| our side? And hain't that a big enough |
-| majority in any town?                  |
-|                                        |
-\ -- Mark Twain, "Huckleberry Finn"      /
- ----------------------------------------
+ ____________________________________
+< Be cautious in your daily affairs. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
