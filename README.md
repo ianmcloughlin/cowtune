@@ -1,8 +1,11 @@
 # Cowtune
 ```
- ______________________
-< You are always busy. >
- ----------------------
+ ____________________________________
+/ The smallest worm will turn being  \
+| trodden on.                        |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
