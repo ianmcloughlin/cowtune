@@ -1,11 +1,8 @@
 # Cowtune
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ____________________________
+< Save energy: be apathetic. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
