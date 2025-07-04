@@ -1,9 +1,9 @@
 # Cowtune
 ```
- _____________________________________
-/ You will be awarded the Nobel Peace \
-\ Prize... posthumously.              /
- -------------------------------------
+ _______________________________________
+/ Q: What is purple and commutes? A: An \
+\ Abelian grape.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
