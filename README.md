@@ -1,8 +1,10 @@
 # Cowtune
 ```
- ________________________
-< Don't get to bragging. >
- ------------------------
+ _________________________________________
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
