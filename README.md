@@ -1,9 +1,8 @@
 # Cowtune
 ```
  _________________________________________
-/ You will lose your present job and have \
-| to become a door to door mayonnaise     |
-\ salesman.                               /
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
