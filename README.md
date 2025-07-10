@@ -1,9 +1,11 @@
 # Cowtune
 ```
- _________________________________________
-/ You worry too much about your job. Stop \
-\ it. You are not paid enough to worry.   /
- -----------------------------------------
+ ________________________________________
+/ Alas, how love can trifle with itself! \
+|                                        |
+| -- William Shakespeare, "The Two       |
+\ Gentlemen of Verona"                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
