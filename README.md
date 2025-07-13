@@ -1,10 +1,11 @@
 # Cowtune
 ```
- ______________________________________
-/ Good night to spend with family, but \
-| avoid arguments with your mate's new |
-\ lover.                               /
- --------------------------------------
+ _________________________________________
+/ Patch griefs with proverbs.             \
+|                                         |
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
