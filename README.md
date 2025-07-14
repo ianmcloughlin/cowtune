@@ -1,10 +1,8 @@
 # Cowtune
 ```
  _________________________________________
-/ Patch griefs with proverbs.             \
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
+/ You will be traveling and coming into a \
+\ fortune.                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
