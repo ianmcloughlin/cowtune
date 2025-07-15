@@ -1,9 +1,12 @@
 # Cowtune
 ```
- _________________________________________
-/ You will be traveling and coming into a \
-\ fortune.                                /
- -----------------------------------------
+ _______________________________________
+/ There are more things in heaven and   \
+| earth, Horatio, than are dreamt of in |
+| your philosophy.                      |
+|                                       |
+\ -- Wm. Shakespeare, "Hamlet"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
