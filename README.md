@@ -1,12 +1,9 @@
 # Cowtune
 ```
- _______________________________________
-/ There are more things in heaven and   \
-| earth, Horatio, than are dreamt of in |
-| your philosophy.                      |
-|                                       |
-\ -- Wm. Shakespeare, "Hamlet"          /
- ---------------------------------------
+ ________________________________________
+/ Green light in A.M. for new projects.  \
+\ Red light in P.M. for traffic tickets. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
