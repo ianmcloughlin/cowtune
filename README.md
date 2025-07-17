@@ -1,8 +1,11 @@
 # Cowtune
 ```
  ________________________________________
-/ Green light in A.M. for new projects.  \
-\ Red light in P.M. for traffic tickets. /
+/ It is a wise father that knows his own \
+| child.                                 |
+|                                        |
+| -- William Shakespeare, "The Merchant  |
+\ of Venice"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
