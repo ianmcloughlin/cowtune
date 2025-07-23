@@ -1,11 +1,10 @@
 # Cowtune
 ```
  ________________________________________
-/ Q: Why haven't you graduated yet? A:   \
-| Well, Dad, I could have finished years |
-| ago, but I wanted                      |
-|                                        |
-\ my dissertation to rhyme.              /
+/ Q: How many supply-siders does it take \
+| to change a light bulb? A: None. The   |
+| darkness will cause the light bulb to  |
+\ change by itself.                      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
