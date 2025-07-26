@@ -1,7 +1,9 @@
 # Cowtune
 ```
  ______________________________________
-< You're at the end of the road again. >
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
