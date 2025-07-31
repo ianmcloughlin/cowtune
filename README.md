@@ -1,9 +1,9 @@
 # Cowtune
 ```
- _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
- -----------------------------------------
+ ______________________________________
+/ Your life would be very empty if you \
+\ had nothing to regret.               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
