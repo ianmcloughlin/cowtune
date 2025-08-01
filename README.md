@@ -1,9 +1,9 @@
 # Cowtune
 ```
- ______________________________________
-/ Your life would be very empty if you \
-\ had nothing to regret.               /
- --------------------------------------
+ ___________________________
+/ You will live to see your \
+\ grandchildren.            /
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
