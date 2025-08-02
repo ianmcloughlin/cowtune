@@ -1,9 +1,11 @@
 # Cowtune
 ```
- ___________________________
-/ You will live to see your \
-\ grandchildren.            /
- ---------------------------
+ _________________________________________
+/ Always do right. This will gratify some \
+| people and astonish the rest.           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
