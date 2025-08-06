@@ -1,9 +1,9 @@
 # Cowtune
 ```
- _________________________________
-/ You are taking yourself far too \
-\ seriously.                      /
- ---------------------------------
+ ________________________________________
+/ Think twice before speaking, but don't \
+\ say "think think click click".         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
