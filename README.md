@@ -1,12 +1,8 @@
 # Cowtune
 ```
- _________________________________________
-/ Fame is a vapor; popularity an          \
-| accident; the only earthly certainty is |
-| oblivion.                               |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+< Your supervisor is thinking about you. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
