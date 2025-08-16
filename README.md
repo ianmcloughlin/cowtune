@@ -1,7 +1,10 @@
 # Cowtune
 ```
  ________________________________________
-< Your supervisor is thinking about you. >
+/ Today's weirdness is tomorrow's reason \
+| why.                                   |
+|                                        |
+\ -- Hunter S. Thompson                  /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
