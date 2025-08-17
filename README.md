@@ -1,10 +1,11 @@
 # Cowtune
 ```
  ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
 |                                        |
-\ -- Hunter S. Thompson                  /
+\ -- Mark Twain, "Huckleberry Finn"      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
