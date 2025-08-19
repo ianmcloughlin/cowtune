@@ -1,12 +1,10 @@
 # Cowtune
 ```
- ___________________________________
-/ "... an experienced, industrious, \
-| ambitious, and often quite often  |
-| picturesque liar."                |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ _______________________________________
+/ You had some happiness once, but your \
+| parents moved away, and you had to    |
+\ leave it behind.                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
