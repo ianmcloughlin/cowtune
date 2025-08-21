@@ -1,10 +1,9 @@
 # Cowtune
 ```
- ________________________________________
-/ Q: Why do firemen wear red suspenders? \
-| A: To conform with departmental        |
-\ regulations concerning uniform dress.  /
- ----------------------------------------
+ ______________________________________
+/ Expect the worst, it's the least you \
+\ can do.                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
