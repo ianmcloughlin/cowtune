@@ -1,10 +1,10 @@
 # Cowtune
 ```
- __________________________________
-/ Someone is speaking well of you. \
-|                                  |
-\ How unusual!                     /
- ----------------------------------
+ _________________________________________
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
